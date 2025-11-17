@@ -2,14 +2,13 @@
 A lightweight leave-scheduling system built on Google Sheets and Google Apps Script. Designed for small teams who need a simple way to track leave days.
 
 Features
-
-Auto-generated monthly sheets for an entire year
-Per-employee protected ranges (each employee can only edit their own column)
-Prevents leave on closed/holiday days
-Prevents exceeding leave limits
-Summary sheet with total & remaining leave days
-Daily automated Drive backups (keeps last N backups)
-Admin-only backup log
+1. Auto-generated monthly sheets for an entire year
+2. Per-employee protected ranges (each employee can only edit their own column)
+3. Prevents leave on closed/holiday days
+4. Prevents exceeding leave limits
+5. Summary sheet with total & remaining leave days
+6. Daily automated Drive backups (keeps last N backups)
+7. Admin-only backup log
 
 Setup Instructions
 1. Create a New Google Spreadsheet
